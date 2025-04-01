@@ -1,0 +1,11 @@
+# Ignorar node_modules
+node_modules
+
+# Ignorar o API
+.env
+
+# ignorar o rest
+test.rest
+
+# Ingnorar index.js
+models/index.js
